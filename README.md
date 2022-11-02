@@ -10,7 +10,7 @@ If you find this repo useful :star2: it! Its great to know other people are comi
 ## Programming Basics :computer:
 
 | Course Link | Language | My Repository | Difficulty | 
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | (CS 61A: Structure and Interpretation of Computer Programs)[https://cs61a.org/]| Python, SQL, Scheme| | :star::star:star: |
 
 
