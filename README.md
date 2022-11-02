@@ -7,7 +7,7 @@ Computer Science is incredibily interesting and these courses are extremely inte
 If you find this repo useful :star2: it! Its great to know other people are coming to visit.
 
 
-#### Programming Basics :computer:
+### Programming Basics :computer
 
 | Course Link | Language | My Repository | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
