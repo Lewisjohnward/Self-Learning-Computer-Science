@@ -14,6 +14,7 @@ If you find this repo useful :star2: it! Its great to know other people are comi
 | [CS 61A: Structure and Interpretation of Computer Programs](https://cs61a.org/)| Python, SQL, Scheme| | :star2::star2::star2: |
 
 
+## Algorithms :chart_with_upwards_trend:
 | Course Link | Language | My Repository | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
 | [CS 61B: Data Structures](https://fa22.datastructur.es/)| Java | not started | not completed |
@@ -26,6 +27,11 @@ If you find this repo useful :star2: it! Its great to know other people are comi
 | ------------- | ------------- | ------------- | ------------- |
 | [Princeton: Algorithms pt2](https://www.coursera.org/learn/algorithms-part2)|  | not started | not completed |
 
+## Computer Architecture :wrench:
+
+| Course Link | Language | My Repository | Difficulty | 
+| ------------- | ------------- | ------------- | ------------- |
+| [Nand2Tetris I](https://www.coursera.org/learn/build-a-computer/home/week/1)&& [II](https://www.coursera.org/learn/nand2tetris2/home/welcome)|  | not started | not completed |
 
 | Course Link | Language | My Repository | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
@@ -33,12 +39,37 @@ If you find this repo useful :star2: it! Its great to know other people are comi
 
 | Course Link | Language | My Repository | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
-| [Nand2Tetris I](https://www.coursera.org/learn/build-a-computer/home/week/1)&& [II](https://www.coursera.org/learn/nand2tetris2/home/welcome)|  | not started | not completed |
+| [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/)| C | | :star2::star2::star2: |
 
+## Operating Systems
 
 | Course Link | Language | My Repository | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
-| [Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/)| C | | :star2::star2::star2: |
+| [MIT 6.S081: Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2020/)| | not started | not completed |
+
+| Course Link | Language | My Repository | Difficulty | 
+| ------------- | ------------- | ------------- | ------------- |
+| [MIT 6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html)| | not started | not completed |
+
+## Distributed System
+
+| Course Link | Language | My Repository | Difficulty | 
+| ------------- | ------------- | ------------- | ------------- |
+| [MIT 6.824](https://pdos.csail.mit.edu/6.824/schedule.html)| | not started | not completed |
+
+## Computer Network
+
+| Course Link | Language | My Repository | Difficulty | 
+| ------------- | ------------- | ------------- | ------------- |
+| [CS144: Introduction to Computer Networking](https://www.scs.stanford.edu/10au-cs144/)|  | not started | not completed  |
+
+## Computer Security
+
+| Course Link | Language | My Repository | Difficulty | 
+| ------------- | ------------- | ------------- | ------------- |
+| [CS 161: Computer Security](https://cs161.org/)|  | not started | not completed  |
+
+## Misc
 
 | Course Link | Language | My Repository | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
