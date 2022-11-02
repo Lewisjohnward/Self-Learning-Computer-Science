@@ -4,7 +4,7 @@ Welcome 👋! This contains the courses I have used to learn computer science. T
 
 Computer Science is incredibily interesting and these courses are extremely interesting.
 
-If you find this repo useful :star2: it! Its great to know other people are coming to visit this repo.
+If you find this repo useful :star2: it! Its great to know other people are coming to visit.
 
 
 # test
