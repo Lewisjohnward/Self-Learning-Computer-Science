@@ -31,7 +31,7 @@ If you find this repo useful :star2: it! Its great to know other people are comi
 
 | Course Link | Language | My Repository | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
-| [Nand2Tetris I](https://www.coursera.org/learn/build-a-computer/home/week/1)& [II](https://www.coursera.org/learn/nand2tetris2/home/welcome)|  | not started | not completed |
+| [Nand2Tetris I](https://www.coursera.org/learn/build-a-computer/home/week/1) & [II](https://www.coursera.org/learn/nand2tetris2/home/welcome)|  | not started | not completed |
 
 | Course Link | Language | My Repository | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
