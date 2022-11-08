@@ -45,7 +45,7 @@ If you find this repo useful :star2: it! Its great to know other people are comi
 
 | Course Link | Language | My Repository | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
-| [MIT 6.S081: Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2020/)| | not started | not completed |
+| [MIT 6.S081: Operating System Engineering](https://pdos.csail.mit.edu/6.S081/2020/)| | [repository](https://github.com/Lewisjohnward/MIT-6.S081) | not completed |
 
 | Course Link | Language | My Repository | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
