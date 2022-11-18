@@ -51,6 +51,14 @@ If you find this repo useful :star2: it! Its great to know other people are comi
 | ------------- | ------------- | ------------- | ------------- |
 | [MIT 6.828: Operating System Engineering](https://pdos.csail.mit.edu/6.828/2018/schedule.html)| | not started | not completed |
 
+| Course Link | Language | My Repository | Difficulty | 
+| ------------- | ------------- | ------------- | ------------- |
+| [OSTEP book](https://pages.cs.wisc.edu/~remzi/OSTEP/)| | not started | not completed |
+
+| Course Link | Language | My Repository | Difficulty | 
+| ------------- | ------------- | ------------- | ------------- |
+| [OSTEP Projects](https://github.com/remzi-arpacidusseau/ostep-projects)| | not started | not completed |
+
 ## Distributed System
 
 | Course Link | Language | My Repository | Difficulty | 
