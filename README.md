@@ -17,6 +17,10 @@ If you find this repo useful :star2: it! Its great to know other people are comi
 ## Algorithms :chart_with_upwards_trend:
 | Course Link | Language | My Repository | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
+| [Divide & Conque, Sorting & Searching... ](https://www.coursera.org/learn/algorithms-divide-conquer)| Language agnostic | [Here](https://github.com/Lewisjohnward/divide-and-conquer-sorting-and-searching-and-randomized-algorithms) | not completed |
+
+| Course Link | Language | My Repository | Difficulty | 
+| ------------- | ------------- | ------------- | ------------- |
 | [CS 61B: Data Structures](https://fa22.datastructur.es/)| Java | not started | not completed |
 
 | Course Link | Language | My Repository | Difficulty | 
