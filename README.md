@@ -73,7 +73,7 @@ If you find this repo useful :star2: it! Its great to know other people are comi
 
 | Course Link | Language | My Repository | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
-| [CS144: Introduction to Computer Networking](https://www.scs.stanford.edu/10au-cs144/)|  | not started | not completed  |
+| [CS144: Introduction to Computer Networking](https://www.scs.stanford.edu/10au-cs144/)|  | [Here](https://github.com/Lewisjohnward/cs144-intro-to-computer-networking) | not completed  |
 
 ## Computer Security
 
